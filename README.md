@@ -19,15 +19,14 @@
 - ✨ Writing clean, reusable, and accessible code
   ---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tigeryare&label=Profile%20views&color=0e75b6&style=flat" alt="tigerrr10" /> </p>
-
+ 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tigerrr10" alt="tigeryare" /></a> </p>
 
   
 
 ### 💌 Let’s Connect
 
-- 📧 **Email:** [ tigerrr9000@gmail.com](mailto: tigerrr9000@gmail.com )  
+- 📧 **Email:** [ tigerrr9000@gmail.com]  
 - 🤝 **Available for:** Collaboration • Learning Projects • Open Source Contributions  
 - 🌐 **GitHub:** [github.com/tigerrr10]( https://github.com/tigerrr10)
   ---
