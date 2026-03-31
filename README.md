@@ -19,18 +19,17 @@
 - ✨ Writing clean, reusable, and accessible code
   ---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tigeryare&label=Profile%20views&color=0e75b6&style=flat" alt="tigeryare" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tigeryare&label=Profile%20views&color=0e75b6&style=flat" alt="tigerrr10" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tigeryare" alt="tigeryare" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tigerrr10" alt="tigeryare" /></a> </p>
 
- 
-- 🔭 I’m currently working on [voting system](https://github.com/tigeryare/voting-system)
+  
 
 ### 💌 Let’s Connect
 
-- 📧 **Email:** [maxamedcabdicasiis637@gmail.com](mailto:maxamedcabdicasiis637@gmail.com )  
+- 📧 **Email:** [ tigerrr9000@gmail.com](mailto: tigerrr9000@gmail.com )  
 - 🤝 **Available for:** Collaboration • Learning Projects • Open Source Contributions  
-- 🌐 **GitHub:** [github.com/tigeryare]( https://github.com/tigeryare)
+- 🌐 **GitHub:** [github.com/tigerrr10]( https://github.com/tigerrr10)
   ---
  
 - 💬 Ask me about **Html ,CSS**
