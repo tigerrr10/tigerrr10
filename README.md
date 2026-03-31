@@ -21,8 +21,7 @@
   ---
 
  
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tigerrr10" alt="tigeryare" /></a> </p>
-
+ 
   
 
 ### 💌 Let’s Connect
