@@ -1,5 +1,4 @@
-
- <h1 align="center">Hi 👋, I'm Yasir Abdiaziz</h1>
+userser <h1 align="center">Hi 👋, I'm Yasir Abdiaziz</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3000&pause=1000&color=F97316&center=true&width=435&lines=Building+beautiful+web+experiences;Learning+modern+Frontend+tools;Exploring+React+and+TailwindCSS;Open+to+collaboration+and+growth" alt="Typing SVG" />
  
@@ -43,4 +42,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tigeryare&show_icons=true&locale=en" alt="tigeryare" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tigeryare&" alt="tigeryare" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/ /></p>
