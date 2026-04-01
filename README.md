@@ -18,7 +18,7 @@
 - 🎨 Sharpening my ** Machine Learning and Data Science skill**  
 - 🌱 Practicing **GitHub workflows** for team collaboration   
 - ✨ Writing clean, reusable, and accessible code
-  ---
+  
 
  
  
