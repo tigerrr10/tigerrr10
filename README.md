@@ -72,4 +72,4 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/> 
   </a> 
 </p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=dark" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tigerrr10&theme=dark" />
