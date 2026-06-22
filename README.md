@@ -126,36 +126,107 @@
   <img src="assets/images/gradient-line.png" width="100%" height="6px" />
 </p>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tigerrr10&show_icons=true&count_private=true&hide_border=true&title_color=00f2fe&icon_color=00f2fe&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tigerrr10&hide_border=true&stroke=00f2fe&ring=00f2fe&fire=00f2fe&currStreakNum=00f2fe&currStreakLabel=00f2fe&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&background=0d1117" alt="GitHub Streak" width="49%" />
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tigerrr10&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&color=00f2fe&line=00f2fe&point=ffffff" alt="Contribution Graph" width="100%" />
-</div>
-
----
-
- ## 💻 Most Used Languages
+ ## 📊 GitHub Stats
 
 <div align="center">
   <table>
     <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tigerrr10&layout=compact&hide_border=true&title_color=00f2fe&text_color=c9d1d9&bg_color=0d1117&size_weight=0.5&count_weight=0.5" alt="Top Languages" width="100%" />
+      <!-- Qaybta 1: GitHub Stats -->
+      <td width="50%" valign="top">
+        <h3 align="center">📈 GitHub Stats</h3>
+        <br/>
+        <p align="center">
+          <img src="https://github-readme-stats.vercel.app/api?username=tigerrr10&show_icons=true&count_private=true&hide_border=true&title_color=00f2fe&icon_color=00f2fe&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" width="100%" />
+        </p>
+        <br/>
+        <table>
+          <tr><td>📁 Total Repositories</td><td><b>70</b></td></tr>
+          <tr><td>⭐ Stars Earned</td><td><b>186</b></td></tr>
+          <tr><td>🍴 Forks</td><td><b>9</b></td></tr>
+          <tr><td>📝 Total Commits</td><td><b>273</b></td></tr>
+          <tr><td>🔀 Pull Requests</td><td><b>2</b></td></tr>
+          <tr><td>✅ PRs Merged</td><td><b>2</b></td></tr>
+          <tr><td>🐛 Issues</td><td><b>0</b></td></tr>
+          <tr><td>👥 Contributed To</td><td><b>1</b></td></tr>
+        </table>
+      </td>
+      
+      <!-- Qaybta 2: Most Used Languages -->
+      <td width="50%" valign="top">
+        <h3 align="center">💻 Most Used Languages</h3>
+        <br/>
+        <p align="center">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tigerrr10&layout=compact&hide_border=true&title_color=00f2fe&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Top Languages" width="100%" />
+        </p>
+        <br/>
+        <table>
+          <tr><td>🟦 TypeScript</td><td><b>32.73%</b></td></tr>
+          <tr><td>🟨 JavaScript</td><td><b>7.79%</b></td></tr>
+          <tr><td>🟪 SCSS</td><td><b>19.49%</b></td></tr>
+          <tr><td>🟩 PHP</td><td><b>2.40%</b></td></tr>
+          <tr><td>🟥 CSS</td><td><b>18.95%</b></td></tr>
+          <tr><td>🟧 HTML</td><td><b>18.59%</b></td></tr>
+          <tr><td>⬜ Hack</td><td><b>0.05%</b></td></tr>
+        </table>
+      </td>
+    </tr>
+    
+    <tr>
+      <!-- Qaybta 3: Total Contributions -->
+      <td width="50%" valign="top">
+        <h3 align="center">📅 Total Contributions</h3>
+        <br/>
+        <p align="center">
+          <img src="https://github-readme-activity-graph.vercel.app/graph?username=tigerrr10&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&color=00f2fe&line=00f2fe&point=ffffff" alt="Contribution Graph" width="100%" />
+        </p>
+        <br/>
+        <div align="center">
+          <h2>346</h2>
+          <p><b>Total Contributions</b></p>
+          <p>📅 Jul 17, 2023 - Present</p>
+          <br/>
+          <h2>4</h2>
+          <p><b>Current Streak</b></p>
+          <p>🔥 Jun 18 - Jun 21</p>
+        </div>
+      </td>
+      
+      <!-- Qaybta 4: Current Streak -->
+      <td width="50%" valign="top">
+        <h3 align="center">🔥 GitHub Streak</h3>
+        <br/>
+        <p align="center">
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=tigerrr10&hide_border=true&stroke=00f2fe&ring=00f2fe&fire=00f2fe&currStreakNum=00f2fe&currStreakLabel=00f2fe&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&background=0d1117" alt="GitHub Streak" width="100%" />
+        </p>
+        <br/>
+        <div align="center">
+          <table>
+            <tr>
+              <td>📅 <b>Start Date</b></td>
+              <td>Jul 17, 2023</td>
+            </tr>
+            <tr>
+              <td>📊 <b>Total Contributions</b></td>
+              <td><b>346</b></td>
+            </tr>
+            <tr>
+              <td>🔥 <b>Current Streak</b></td>
+              <td><b>4 days</b></td>
+            </tr>
+            <tr>
+              <td>📆 <b>Streak Period</b></td>
+              <td>Jun 18 - Jun 21</td>
+            </tr>
+            <tr>
+              <td>🏆 <b>Longest Streak</b></td>
+              <td>Aug 31 - Sep 8, 2025</td>
+            </tr>
+          </table>
+        </div>
       </td>
     </tr>
   </table>
 </div>
----
-
 ## 🚀 Featured Projects
 
 <div align="center">
