@@ -6,9 +6,7 @@
  <p align="center">
   
   
-</p>
-<h3 align="center">A passionate 🚀 Frontend Developer | 🤖 Machine Learning Enthusiast</h3>
-<h2>🙋 About Me</h2>
+ 
 
 <div align="left">
 
