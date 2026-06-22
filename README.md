@@ -4,9 +4,10 @@
  
 
  <p align="center">
-  
-  
  
+<div align="left">
+
+ <h2>🙋 About Me</h2>
 
 <div align="left">
 
@@ -45,7 +46,7 @@
 
 <p align="center">  
   <!-- Profile Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username= Maher-Elmair&label=Profile%20Views&color=bf91f3&style=flat" alt="Profile Views"/>    
+  <img src="https://komarev.com/ghpvc/?username=Maher-Elmair&label=Profile%20Views&color=bf91f3&style=flat" alt="Profile Views"/>    
   
   <!-- GitHub Followers Badge -->
   <img src="https://img.shields.io/github/followers/tigerrr10?label=Followers&style=flat&color=70a5fd&labelColor=0d1117&logo=githubsponsors&logoColor=white" alt="Followers"/>
