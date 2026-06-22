@@ -65,6 +65,66 @@
 <p align="center">
   <img src="assets/images/gradient-line.png" width="100%" height="6px" />
 </p>
+
+ <h2>🛠️ Tech Stack</h2>
+    
+  <h3>🎨 Languages & Core</h3>
+  <p>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" />
+     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+   </p>
+
+  <h3>⚛️ Frontend Development</h3>
+  <p>
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+ 
+  </p>
+
+  <h3>🎨 UI & Styling</h3>
+  <p>
+     <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+     <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+    <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  </p>
+
+  <h3>📦 State Management & Data</h3>
+  <p>
+    <img src="https://img.shields.io/badge/LocalStorage-FFA500?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Context%20API-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+     </p>
+
+  <h3>📂 File & Drag / Drop</h3>
+  <p>
+    <img src="https://img.shields.io/badge/react--dropzone-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+   </p>
+
+  <h3>🖥️ Backend & Tools</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+   </p>
+
+  <h3>⚒️ Tools & Others</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+    <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+   </p>
+
+  <h3>☁️ Deployment & Hosting</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=github&logoColor=white" />
+  </p>
+
+<p align="center">
+  <img src="assets/images/gradient-line.png" width="100%" height="6px" />
+</p>
+
  
 ## 🚀 What I'm Doing Right Now
 
