@@ -8,7 +8,42 @@
   
 </p>
 <h3 align="center">A passionate 🚀 Frontend Developer | 🤖 Machine Learning Enthusiast</h3>
+<h2>🙋 About Me</h2>
 
+<div align="left">
+
+<h3>🌟 Who I am</h3>
+<p>
+  <strong>Frontend Developer</strong> passionate about creating 
+  <strong>responsive, user-friendly</strong> web applications with 
+  <strong>clean, maintainable code</strong>.
+</p>
+
+<h3>📚 Currently Learning</h3>
+<ul>
+  <li><strong>React</strong> & <strong>TypeScript</strong> (Advanced)</li>
+  <li><strong>State Management</strong> (Context API, Redux Toolkit)</li>
+  <li>Modern <strong>UI/UX Design</strong> principles</li>
+  <li><strong>Performance Optimization</strong> techniques</li>
+</ul>
+
+<h3>🚀 What Drives Me</h3>
+<ul>
+  <li>Building <strong>meaningful applications</strong></li>
+  <li>Learning <strong>new technologies</strong></li>
+  <li><strong>Open Source</strong> contributions</li>
+  <li>Team collaboration</li>
+</ul>
+
+<h3>🎯 Vision</h3>
+<p>
+  To become a <strong>Full-Stack Developer</strong>, mastering both 
+  <strong>frontend and backend</strong> technologies.
+</p>
+
+</div>
+
+<br>
  
 ## 🚀 What I'm Doing Right Now
 
