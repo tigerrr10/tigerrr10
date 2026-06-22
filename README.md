@@ -146,24 +146,14 @@
  ## 💻 Most Used Languages
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tigerrr10&layout=compact&hide_border=true&title_color=00f2fe&text_color=c9d1d9&bg_color=0d1117&langs_count=8&hide=html" alt="Top Languages" width="80%" />
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tigerrr10&layout=compact&hide_border=true&title_color=00f2fe&text_color=c9d1d9&bg_color=0d1117&size_weight=0.5&count_weight=0.5" alt="Top Languages" width="100%" />
+      </td>
+    </tr>
+  </table>
 </div>
-
-<br/>
-
-<div align="center">
-
-| # | Language | Percentage | Progress |
-|---|----------|------------|----------|
-| 1 | <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> | 43.26% | <img src="https://progress-bar.dev/43.26/?width=300&color=3178C6" /> |
-| 2 | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> | 5.99% | <img src="https://progress-bar.dev/5.99/?width=300&color=F7DF1E" /> |
-| 3 | <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" /> | 28.18% | <img src="https://progress-bar.dev/28.18/?width=300&color=777BB4" /> |
-| 4 | <img src="https://img.shields.io/badge/PLpgSQL-336791?style=flat-square&logo=postgresql&logoColor=white" /> | 4.28% | <img src="https://progress-bar.dev/4.28/?width=300&color=336791" /> |
-| 5 | <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" /> | 15.48% | <img src="https://progress-bar.dev/15.48/?width=300&color=1572B6" /> |
-| 6 | <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" /> | 2.82% | <img src="https://progress-bar.dev/2.82/?width=300&color=E34F26" /> |
-
-</div>
-
 ---
 
 ## 🚀 Featured Projects
