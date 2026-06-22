@@ -140,7 +140,7 @@
         </p>
         <br/>
         <table>
-          <tr><td>📁 Total Repositories</td><td><b>70</b></td></tr>
+          <tr><td>📁 Total Repositories</td><td><b>4</b></td></tr>
           <tr><td>⭐ Stars Earned</td><td><b>186</b></td></tr>
           <tr><td>🍴 Forks</td><td><b>9</b></td></tr>
           <tr><td>📝 Total Commits</td><td><b>273</b></td></tr>
@@ -165,7 +165,6 @@
           <tr><td>🟩 PHP</td><td><b>2.40%</b></td></tr>
           <tr><td>🟥 CSS</td><td><b>18.95%</b></td></tr>
           <tr><td>🟧 HTML</td><td><b>18.59%</b></td></tr>
-          <tr><td>⬜ Hack</td><td><b>0.05%</b></td></tr>
         </table>
       </td>
     </tr>
