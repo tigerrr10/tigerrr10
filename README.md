@@ -128,6 +128,55 @@
   <img src="assets/images/gradient-line.png" width="100%" height="6px" />
 </p>
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tigerrr10&show_icons=true&count_private=true&hide_border=true&title_color=00f2fe&icon_color=00f2fe&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tigerrr10&hide_border=true&stroke=00f2fe&ring=00f2fe&fire=00f2fe&currStreakNum=00f2fe&currStreakLabel=00f2fe&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&background=0d1117" alt="GitHub Streak" width="49%" />
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tigerrr10&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&color=00f2fe&line=00f2fe&point=ffffff" alt="Contribution Graph" width="100%" />
+</div>
+
+---
+
+## 💻 Most Used Languages
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tigerrr10&layout=pie&hide_border=true&title_color=00f2fe&text_color=c9d1d9&bg_color=0d1117&size_weight=0.5&count_weight=0.5" alt="Top Languages" width="50%" />
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">🌟 mideye-travel</h3>
+        <p align="center">
+          <a href="https://github.com/tigerrr10/project1" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=tigerrr10&repo=project1&hide_border=true&title_color=00f2fe&text_color=c9d1d9&bg_color=0d1117" alt="Project 1" />
+          </a>
+        </p>
+      </td>
+      <td width="50%">
+        <h3 align="center">🌟 roadmap-web-front-end </h3>
+        <p align="center">
+          <a href="https://github.com/tigerrr10/project2" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=tigerrr10&repo=project2&hide_border=true&title_color=00f2fe&text_color=c9d1d9&bg_color=0d1117" alt="Project 2" />
+          </a>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
  
 ## 🚀 What I'm Doing Right Now
 
