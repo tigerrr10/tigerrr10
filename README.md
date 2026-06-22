@@ -224,24 +224,66 @@
   </table>
 </div>
  
-## 🚀 Featured Projects
+ ## 🚀 Featured Projects
 
 <div align="center">
   <table>
     <tr>
       <td width="50%">
-        <h3 align="center">🌟 mideye-travel</h3>
+        <h3 align="center">🌍 mideye-travel</h3>
+        <br/>
         <p align="center">
-          <a href="https://github.com/tigerrr10/project1" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=tigerrr10&repo=project1&hide_border=true&title_color=00f2fe&text_color=c9d1d9&bg_color=0d1117" alt="Project 1" />
+          <img src="https://img.shields.io/badge/Status-Active-00f2fe?style=for-the-badge" />
+          <img src="https://img.shields.io/badge/Stars-★_12-00f2fe?style=for-the-badge" />
+        </p>
+        <br/>
+        <p align="center">
+          <b>📝 Description:</b><br/>
+          A travel booking and management platform
+        </p>
+        <br/>
+        <p align="center">
+          <b>🛠️ Tech Stack:</b><br/>
+          <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+          <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
+          <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
+        </p>
+        <br/>
+        <p align="center">
+          <a href="https://github.com/tigerrr10/mideye-travel" target="_blank">
+            <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+          </a>
+          <a href="https://mideye-travel.vercel.app" target="_blank">
+            <img src="https://img.shields.io/badge/Live_Demo-00f2fe?style=for-the-badge&logo=vercel&logoColor=white" />
           </a>
         </p>
       </td>
       <td width="50%">
-        <h3 align="center">🌟 roadmap-web-front-end </h3>
+        <h3 align="center">🗺️ roadmap-web-front-end</h3>
+        <br/>
         <p align="center">
-          <a href="https://github.com/tigerrr10/project2" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=tigerrr10&repo=project2&hide_border=true&title_color=00f2fe&text_color=c9d1d9&bg_color=0d1117" alt="Project 2" />
+          <img src="https://img.shields.io/badge/Status-Development-yellow?style=for-the-badge" />
+          <img src="https://img.shields.io/badge/Stars-★_8-00f2fe?style=for-the-badge" />
+        </p>
+        <br/>
+        <p align="center">
+          <b>📝 Description:</b><br/>
+          Interactive roadmap for web development learning
+        </p>
+        <br/>
+        <p align="center">
+          <b>🛠️ Tech Stack:</b><br/>
+          <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+          <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        </p>
+        <br/>
+        <p align="center">
+          <a href="https://github.com/tigerrr10/roadmap-web-front-end" target="_blank">
+            <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+          </a>
+          <a href="https://roadmap-web-front-end.vercel.app" target="_blank">
+            <img src="https://img.shields.io/badge/Live_Demo-00f2fe?style=for-the-badge&logo=vercel&logoColor=white" />
           </a>
         </p>
       </td>
