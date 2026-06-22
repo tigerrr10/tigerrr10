@@ -8,9 +8,7 @@
  
 <div align="left">
 
-<p align="center">
-  <img src="assets/images/gradient-line.png" width="100%" height="6px" />
-</p>
+ 
 
  <h2>🙋 About Me</h2>
 
@@ -122,9 +120,7 @@
     <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=github&logoColor=white" />
   </p>
 
-<p align="center">
-  <img src="assets/images/gradient-line.png" width="100%" height="6px" />
-</p>
+ 
 
 ## 📊 GitHub Stats
 
