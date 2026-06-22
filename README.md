@@ -291,66 +291,77 @@
   </table>
 </div>
  
-## 🚀 What I'm Doing Right Now
+ ## 🚀 What I'm Doing Right Now
 
-- 🌱 I’m currently learning **Fullstack Software Engineering**  
-- 🔭 Building projects with **HTML, CSS, JavaScript, TailwindCSS**
-- 🎨 Sharpening my ** Machine Learning and Data Science skill**  
-- 🌱 Practicing **GitHub workflows** for team collaboration   
-- ✨ Writing clean, reusable, and accessible code
-  
+<div align="center">
+  <table>
+    <tr>
+      <td width="33%" align="center">
+        <h3>📚 Learning</h3>
+        <ul align="left">
+          <li>🎓 Fullstack Software Engineering</li>
+          <li>🤖 Machine Learning & Data Science</li>
+          <li>🔧 GitHub Workflows</li>
+        </ul>
+      </td>
+      <td width="33%" align="center">
+        <h3>🛠️ Building</h3>
+        <ul align="left">
+          <li>🌐 HTML, CSS, JavaScript</li>
+          <li>🎨 TailwindCSS</li>
+          <li>⚛️ React & PHP</li>
+        </ul>
+      </td>
+      <td width="33%" align="center">
+        <h3>📝 Focus</h3>
+        <ul align="left">
+          <li>✨ Clean & accessible code</li>
+          <li>🤝 Open Source</li>
+          <li>📱 Real-world projects</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
 
- 
- 
-  
+<br/>
 
-### 💌 Let’s Connect
+<div align="center">
+  <h3>💡 Ask Me About</h3>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+</div>
 
-- 📧 **Email:** [ tigerrr9000@gmail.com]  
-- 🤝 **Available for:** Collaboration • Learning Projects • Open Source Contributions  
-- 🌐 **GitHub:** [github.com/tigerrr10]( https://github.com/tigerrr10)
-  ---
- 
-- 💬 Ask me about **Html ,CSS**
-  ---
+---
 
- 
+## 🌐 Let's Connect
 
- 
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <b>📧 Email</b><br/>
+        <a href="mailto:tigerrr9000@gmail.com">tigerrr9000@gmail.com</a>
+      </td>
+      <td align="center">
+        <b>🐙 GitHub</b><br/>
+        <a href="https://github.com/tigerrr10">github.com/tigerrr10</a>
+      </td>
+      <td align="center">
+        <b>💬 Ask Me</b><br/>
+        HTML, CSS, JavaScript, React
+      </td>
+    </tr>
+  </table>
+</div>
 
- <h3 align="left">Languages and Tools:</h3>
+<br/>
 
-<p align="left"> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/> 
-  </a> 
-
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/> 
-  </a> 
-
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/> 
-  </a> 
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/> 
-  </a> 
-
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/> 
-  </a> 
-
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/> 
-  </a> 
-
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/> 
-  </a> 
-
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/> 
-  </a> 
-</p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tigerrr10&theme=dark" />
+<div align="center">
+  <h4>🤝 Available for</h4>
+  <img src="https://img.shields.io/badge/Collaboration-00f2fe?style=for-the-badge&logo=handshake&logoColor=white" />
+  <img src="https://img.shields.io/badge/Learning_Projects-00f2fe?style=for-the-badge&logo=book&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open_Source-00f2fe?style=for-the-badge&logo=opensourceinitiative&logoColor=white" />
+</div>
