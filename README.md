@@ -7,9 +7,10 @@
  
 <div align="left">
 
-  <p align="center">
+<p align="center">
   <img src="assets/images/gradient-line.png" width="100%" height="6px" />
 </p>
+
  <h2>🙋 About Me</h2>
 
 <div align="left">
