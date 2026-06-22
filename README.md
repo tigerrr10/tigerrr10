@@ -253,7 +253,7 @@
           <a href="https://github.com/tigerrr10/mideye-travel" target="_blank">
             <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
           </a>
-          <a href="https://mideye-travel.vercel.app" target="_blank">
+          <a href=" https://app-bp21mnfqja4h.appmedo.com/" target="_blank">
             <img src="https://img.shields.io/badge/Live_Demo-00f2fe?style=for-the-badge&logo=vercel&logoColor=white" />
           </a>
         </p>
@@ -282,7 +282,7 @@
           <a href="https://github.com/tigerrr10/roadmap-web-front-end" target="_blank">
             <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
           </a>
-          <a href="https://roadmap-web-front-end.vercel.app" target="_blank">
+          <a href=" https://roadmap-web-front-end.lovable.app/" target="_blank">
             <img src="https://img.shields.io/badge/Live_Demo-00f2fe?style=for-the-badge&logo=vercel&logoColor=white" />
           </a>
         </p>
